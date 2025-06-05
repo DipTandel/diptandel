@@ -7,5 +7,5 @@
 </div>
 
 <div align="center">
-  <p><strong>Jupyter Notebook is the same as Python here.</strong></p>
+  <p><strong>Jupyter Notebook is the same as Python here</strong></p>
 </div>
