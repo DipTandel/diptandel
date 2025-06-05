@@ -1,3 +1,3 @@
 ## 👋 Welcome to my GitHub Profile! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diptandel&size_weight=0.5&count_weight=0.5&langs_count=7&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diptandel&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=transparent)
